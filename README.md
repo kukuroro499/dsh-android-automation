@@ -180,3 +180,13 @@ python3 shz_u2.py stop
 | [AutoX.js (Auto.js v6)](https://github.com/automan-bot/AutoX) | 设备端 JS + 无障碍服务 | 见其仓库 |
 | [ADBKeyboard](https://github.com/senzhk/ADBKeyBoard) | 中文/emoji 输入注入 | Apache-2.0 |
 | [Shizuku](https://github.com/RikkaApps/Shizuku) | 免 root 的 shell 通道 | Apache-2.0 |
+
+---
+
+## ⭐ 觉得有用的话
+
+这个仓库里的每一条结论都是在一台真机上试出来的——包括那些踩过的坑。
+
+**如果它帮你省下了几天摸索的时间，点个 Star 就是最大的鼓励。**
+
+有其它 App 的实测数据，也欢迎开 Issue 或 PR 补充。
