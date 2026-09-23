@@ -1,0 +1,6 @@
+# 绝不提交：聊天截图、控件树导出、传输缓存
+shots/
+*.xml
+*.tmpdir/
+ADBKeyboard.apk
+u2.jar
